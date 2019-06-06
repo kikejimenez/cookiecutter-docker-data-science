@@ -1,0 +1,11 @@
+# local package
+-e .
+
+# external requirements
+pandas
+matplotlib
+{% if cookiecutter.machine_learning != 'no' %}
+tensorflow
+keras
+scikit-learn
+{% endif %}

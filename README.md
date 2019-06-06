@@ -17,7 +17,7 @@ $ pip install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter 
+    cookiecutter https://github.com/kikejimenez/cookiecutter-docker-data-science
 
 ### The resulting directory structure
 ------------
@@ -51,8 +51,8 @@ The directory structure of your new project looks like this:
 -----------
 
 -  Make _docker_jupyter.sh_ executable
--  Run in `./docker_jupyter.sh`
--  Copy url and paste it on browser
+-  Run  `./docker_jupyter.sh`
+-  Copy the _url_ and paste into the browser
 
 
 ### Credits

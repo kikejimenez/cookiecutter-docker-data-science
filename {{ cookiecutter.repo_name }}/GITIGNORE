@@ -2,3 +2,5 @@
 #data
 data
 *requirements.txt
+Dockerfile
+docker_jupyter.sh

@@ -46,14 +46,9 @@ The directory structure of your new project looks like this:
     ├── __init__.py    <- Makes src a Python module
  ```
 
-
 ### To start Jupyter Lab:
 -----------
-
--  Make _docker_jupyter.sh_ executable
--  Run  `./docker_jupyter.sh`
--  Copy the _url_ and paste into the browser
-
+- docker-compose up
 
 ### Credits
 ------------

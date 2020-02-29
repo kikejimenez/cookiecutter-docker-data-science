@@ -1,11 +1,8 @@
-# local package
--e .
-
-# external requirements
 pandas
+sklearn
+spacy
 matplotlib
-{% if cookiecutter.machine_learning != 'no' %}
+numpy
+gensim
+unidecode
 tensorflow
-keras
-scikit-learn
-{% endif %}

@@ -48,7 +48,7 @@ The directory structure of your new project looks like this:
 
 ### To start Jupyter Lab:
 -----------
-- docker-compose up
+- Enter command 'docker-compose up'
 
 ### Credits
 ------------
